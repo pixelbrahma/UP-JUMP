@@ -1,0 +1,51 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4021 MB
+    Driver:   25.21.14.1891
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\My Games\UpJump\UpJump\UpJumP_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.199 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.072200 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 328.443800 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 670.
+Total: 3.777400 ms (FindLiveObjects: 0.052500 ms CreateObjectMapping: 0.028000 ms MarkObjects: 3.684300 ms  DeleteObjects: 0.012100 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.443500 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 670.
+Total: 0.483000 ms (FindLiveObjects: 0.116300 ms CreateObjectMapping: 0.032600 ms MarkObjects: 0.315800 ms  DeleteObjects: 0.016900 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.440800 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 670.
+Total: 0.347200 ms (FindLiveObjects: 0.073000 ms CreateObjectMapping: 0.029600 ms MarkObjects: 0.232200 ms  DeleteObjects: 0.011600 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 1634 -> priority: 1 
+  Thread -> id: 2cf0 -> priority: 1 
+  Thread -> id: 384 -> priority: 1 
+  Thread -> id: 1184 -> priority: 1 
+  Thread -> id: aec -> priority: 1 
+  Thread -> id: 28fc -> priority: 1 
